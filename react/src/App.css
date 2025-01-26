@@ -1,0 +1,53 @@
+.home {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: auto;
+  background-color: #000000;
+  color: azure;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.add-btn {
+  width: 40px;
+  height: 35px;
+}
+
+.newtodo {
+  width: 250px;
+  height: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: bold;
+}
+
+.todo-div {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  padding: 5px;
+}
+
+
+
+.checkbox-button {
+  color: chartreuse;
+}
+
+.todo-text {
+  width: 300px;
+  padding: 2px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
